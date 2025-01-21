@@ -1,12 +1,11 @@
 ---
 permalink: /
-title: "Biography of "
+title: "Biography of Haoyu Dong"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
 I am Haoyu Dong (董皓彧), an undergraduate student at [Department of Electronic Engineering](https://www.ee.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/).
 
 ## Interests
@@ -20,4 +19,3 @@ I am Haoyu Dong (董皓彧), an undergraduate student at [Department of Electron
 - Tsinghua University High School, 2020-2023
 
 ## Honors & Awards
-
