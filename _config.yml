@@ -12,9 +12,9 @@ title                    : "Bio of Haoyu Dong"
 title_separator          : "-"
 name                     : &name "Haoyu Dong"
 description              : &description "Haoyu Dong is an undergraduate student at Tsinghua University, majoring in Electronic Engineering."
-url                      : https://fhyq-dong.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://fhyq-dong.github.io/academicpages.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "FHYQ-Dong/academicpages.github.io"
+repository               : "fhyq-dong/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -27,7 +27,7 @@ author:
   bio              : # "Short biography for the left-hand sidebar"
   location         : "Beijing, China"
   employer         : "Tsinghua University"
-  uri              : "https://bio.fhyq.cloud"
+  uri              : "https://fhyq-dong.github.io/academicpages.github.io/"
   email            : "donghy23@mails.tsinghua.edu.cn" 
 
   # Academic websites
