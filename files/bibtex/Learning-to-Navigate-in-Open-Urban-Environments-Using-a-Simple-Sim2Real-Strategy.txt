@@ -1,0 +1,8 @@
+@inproceedings{
+he2025learning,
+title={Learning to Navigate in Open Urban Environments Using a Simple Sim2Real Strategy},
+author={Lixuan He and Haoyu Dong and Yangcheng Yu and Zhenxing Chen and Jie Feng and Xin Wang and Yong Li},
+booktitle={ICLR 2025 Workshop on Embodied Intelligence with Large Language Models In Open City Environment},
+year={2025},
+url={https://openreview.net/forum?id=24LUDaoztW}
+}
